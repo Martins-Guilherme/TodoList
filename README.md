@@ -7,11 +7,14 @@ A interface contém:
 
 Projeto realizado no curso CodeStart em parceria com Felipe Rocha, plataforma FullStackClub.
 
-##### Caracteristicas
+### Caracteristicas
 Um campo de texto para adicionar novas tarefas com o placeholder "Adicionar nova tarefa"
 Um botão verde "Adicionar" para confirmar a inclusão da tarefa
 Um exemplo de tarefa já adicionada com o texto "Nova tarefa"
 Um ícone de lixeira para remover tarefas
 Todo o conteúdo está organizado em cards brancos que contrastam bem com o fundo colorido
+
+#### Site em operação
+![Aplicação](https://tasksoperator.netlify.app/)
 
 ![image](https://github.com/Martins-Guilherme/TodoList/blob/main/img/ListaDeTarefas.png)
