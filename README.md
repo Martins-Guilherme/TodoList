@@ -15,6 +15,6 @@ Um ícone de lixeira para remover tarefas
 Todo o conteúdo está organizado em cards brancos que contrastam bem com o fundo colorido
 
 #### Site em operação
-![Aplicação](https://tasksoperator.netlify.app/)
+Link do projeto: https://tasksoperator.netlify.app/
 
 ![image](https://github.com/Martins-Guilherme/TodoList/blob/main/img/ListaDeTarefas.png)
