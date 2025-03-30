@@ -14,4 +14,4 @@ Um exemplo de tarefa já adicionada com o texto "Nova tarefa"
 Um ícone de lixeira para remover tarefas
 Todo o conteúdo está organizado em cards brancos que contrastam bem com o fundo colorido
 
-![image](https://)
+![image](https://github.com/Martins-Guilherme/TodoList/blob/main/img/ListaDeTarefas.png)
